@@ -4,6 +4,10 @@
 
 🔗 **Live Demo:** [decodebot.vercel.app](https://decodebot.vercel.app/)
 
+### 🎥 Project Showcase
+
+<video src="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4" width="100%" controls autoplay loop muted></video>
+
 DecodeBot is a product demo showcasing the evolution of conversational interfaces. Within a single UI, users can switch between a deterministic rule-based command dictionary and a modern probabilistic AI assistant featuring real-time speech recognition and text-to-speech voice synthesis.
 
 ---
