@@ -6,7 +6,7 @@
 
 ### 🎥 Project Showcase
 
-<video src="docs/DecodeBot.mp4" width="100%" controls autoplay loop muted></video>
+https://github.com/StrikerFr/DecodeLabs-Internship/raw/project1/docs/DecodeBot.mp4
 
 _(If the video doesn't play automatically above, you can [watch it directly here](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4))_
 
