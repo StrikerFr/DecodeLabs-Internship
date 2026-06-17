@@ -89,9 +89,9 @@ Follow these steps to set up and run DecodeBot locally.
 
 _Screenshots demonstrating the Ivory Light Mode (Deterministic) and Obsidian Dark Mode (AI Voice Module)._
 
-| Rule Engine Mode (Ivory)                   | AI Voice Mode (Obsidian)                      |
-| ------------------------------------------ | --------------------------------------------- |
-| `[Screenshot Placeholder: ivory_mode.png]` | `[Screenshot Placeholder: obsidian_mode.png]` |
+| Rule Engine Mode (Ivory)           | AI Voice Mode (Obsidian)                 |
+| ---------------------------------- | ---------------------------------------- |
+| ![Ivory Mode](docs/ivory_mode.png) | ![Obsidian Mode](docs/obsidian_mode.png) |
 
 ---
 
