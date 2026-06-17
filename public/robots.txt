@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://your-hey-maker.lovable.app/sitemap.xml
