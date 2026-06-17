@@ -34,6 +34,9 @@ An AI-powered conversational assistant featuring multiple interaction modes, voi
 *   **Branch:** [`Task-1-AryanGarg`](https://github.com/StrikerFr/DecodeLabs-Internship/tree/Task-1-AryanGarg)
 *   **Codebase Link:** [View Code & Documentation](https://github.com/StrikerFr/DecodeLabs-Internship/tree/Task-1-AryanGarg)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-decodebot.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://decodebot.vercel.app)
+[![Video Showcase](https://img.shields.io/badge/Video_Showcase-▶_Play_Demo-ff0000?style=for-the-badge)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4)
+
 ---
 
 ### 📊 ClassifyAI
@@ -42,6 +45,9 @@ An intelligent classification platform capable of analyzing datasets, comparing 
 *   **Branch:** [`Task-2-AryanGarg`](https://github.com/StrikerFr/DecodeLabs-Internship/tree/Task-2-AryanGarg)
 *   **Codebase Link:** [View Code & Documentation](https://github.com/StrikerFr/DecodeLabs-Internship/tree/Task-2-AryanGarg)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ai--classify.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-classify.vercel.app)
+[![Video Showcase](https://img.shields.io/badge/Video_Showcase-▶_Play_Demo-ff0000?style=for-the-badge)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/ClassifyAi.mp4)
+
 ---
 
 ### 🎬 MoviePlex
@@ -49,6 +55,9 @@ An AI-enhanced cinematic discovery platform designed to provide immersive movie 
 
 *   **Branch:** [`Task-3-AryanGarg`](https://github.com/StrikerFr/DecodeLabs-Internship/tree/Task-3-AryanGarg)
 *   **Codebase Link:** [View Code & Documentation](https://github.com/StrikerFr/DecodeLabs-Internship/tree/Task-3-AryanGarg)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-movieplex--ai.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://movieplex-ai.vercel.app)
+[![Video Showcase](https://img.shields.io/badge/Video_Showcase-▶_Play_Demo-ff0000?style=for-the-badge)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/movieplex.mp4)
 
 ---
 
