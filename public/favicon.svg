@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <!-- Gradient for the logo icon -->
+    <linearGradient id="logo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+    <!-- Glow effect for a premium feel -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Dark Background -->
+  <rect width="32" height="32" rx="8" fill="#05070d" />
+  <rect width="32" height="32" rx="8" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+  
+  <!-- Film Reel Segmented Outer Ring -->
+  <circle cx="16" cy="16" r="10" fill="none" stroke="url(#logo-grad)" stroke-width="2" stroke-dasharray="5, 3" opacity="0.85" />
+  
+  <!-- Glowing Play Button Symbol in Center -->
+  <path d="M13.5 11 L21.5 16 L13.5 21 Z" fill="url(#logo-grad)" filter="url(#glow)" />
+</svg>
