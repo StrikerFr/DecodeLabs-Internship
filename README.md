@@ -87,21 +87,21 @@ Check out the full application walkthrough:
 
 ## Screenshots
 
-### 1. Landing Page & Neural WebGL Canvas
+### 1. Dataset Analysis Dashboard
 
-![Landing Page](./docs/screenshots/screenshot1.png)
+![Dataset Analysis](./docs/screenshots/screenshot1.png)
 
-### 2. Dataset Upload & Ingest Pipeline
+### 2. Immersive Landing Page & Ingestion
 
-![Dataset Upload](./docs/screenshots/screenshot2.png)
+![Landing Page](./docs/screenshots/screenshot2.png)
 
-### 3. Heuristic Model Rankings
+### 3. Semantic Discoveries & Data Quality Insights
 
-![Model Battle](./docs/screenshots/screenshot3.png)
+![Semantic Discoveries](./docs/screenshots/screenshot3.png)
 
-### 4. Interactive Predictions & AI Explainer
+### 4. AI Researcher Chat & Report Generation
 
-![Prediction Playground](./docs/screenshots/screenshot4.png)
+![AI Chat & Exports](./docs/screenshots/screenshot4.png)
 
 ---
 
