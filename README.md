@@ -2,7 +2,7 @@
 
 > An interactive, immersive machine learning laboratory and AI data scientist assistant designed to explore, understand, and predict patterns in raw datasets before model training.
 
-**Live Demo**: [ai-classify.vercel.app](https://ai-classify.vercel.app)
+**Live Demo**: [ai-classify.vercel.app](https://ai-classify.vercel.app) &nbsp;|&nbsp; [![Play Video](https://img.shields.io/badge/Play-Showcase%20Video-7c3aed?style=for-the-badge&logo=youtube&logoColor=white)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/ClassifyAi.mp4)
 
 ---
 
