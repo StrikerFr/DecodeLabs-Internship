@@ -6,7 +6,9 @@
 
 ### 🎥 Project Showcase
 
-<video src="https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4" width="100%" controls autoplay loop muted></video>
+[![Watch the Showcase Video](https://img.shields.io/badge/Play_Video-▶-ff0000?style=for-the-badge&logo=youtube)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4)
+
+_(Click the badge above to watch the video demonstration)_
 
 DecodeBot is a product demo showcasing the evolution of conversational interfaces. Within a single UI, users can switch between a deterministic rule-based command dictionary and a modern probabilistic AI assistant featuring real-time speech recognition and text-to-speech voice synthesis.
 
