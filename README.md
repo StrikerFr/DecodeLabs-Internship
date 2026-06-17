@@ -2,6 +2,8 @@
 
 > An interactive, immersive machine learning laboratory and AI data scientist assistant designed to explore, understand, and predict patterns in raw datasets before model training.
 
+**Live Demo**: [ai-classify.vercel.app](https://ai-classify.vercel.app)
+
 ---
 
 ## Features
@@ -76,13 +78,30 @@ npm run dev
 
 ---
 
+## Video Showcase
+
+Check out the full application walkthrough:
+[Watch the ClassifyAI Walkthrough Video](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/ClassifyAi.mp4)
+
+---
+
 ## Screenshots
 
-> _Placeholder: Immersive Landing and WebGL Shaders_  
-> ![Landing Page](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80)
+### 1. Landing Page & Neural WebGL Canvas
 
-> _Placeholder: AI Model Battle and Prediction Playground_  
-> ![Analysis Workspace](https://images.unsplash.com/photo-1527474305487-b87b222841cc?auto=format&fit=crop&w=1200&q=80)
+![Landing Page](./docs/screenshots/screenshot1.png)
+
+### 2. Dataset Upload & Ingest Pipeline
+
+![Dataset Upload](./docs/screenshots/screenshot2.png)
+
+### 3. Heuristic Model Rankings
+
+![Model Battle](./docs/screenshots/screenshot3.png)
+
+### 4. Interactive Predictions & AI Explainer
+
+![Prediction Playground](./docs/screenshots/screenshot4.png)
 
 ---
 
