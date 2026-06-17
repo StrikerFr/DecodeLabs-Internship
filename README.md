@@ -6,9 +6,9 @@
 
 ### 🎥 Project Showcase
 
-https://github.com/StrikerFr/DecodeLabs-Internship/raw/project1/docs/DecodeBot.mp4
+[![Watch the Showcase Video](https://img.shields.io/badge/Play_Video-▶-ff0000?style=for-the-badge&logo=youtube)](https://github.com/StrikerFr/DecodeLabs-Internship/blob/project1/docs/DecodeBot.mp4)
 
-_(If the video doesn't play automatically above, you can [watch it directly here](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4))_
+_(Click the badge above to watch the video demonstration)_
 
 DecodeBot is a product demo showcasing the evolution of conversational interfaces. Within a single UI, users can switch between a deterministic rule-based command dictionary and a modern probabilistic AI assistant featuring real-time speech recognition and text-to-speech voice synthesis.
 
