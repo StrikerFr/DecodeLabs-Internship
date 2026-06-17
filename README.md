@@ -5,8 +5,9 @@ An immersive AI-powered film concierge. Curated, cinematic, infinite.
 MoviePlex AI maps your personal taste dimensions against the multiverse of film. Using an elite 3D spatial interface, custom procedural shaders, and generative AI models, the app recommendation engine resolves the perfect movie selection for any mood or custom text signal.
 
 **🔗 Links:**
-- **Live Demo:** [movieplex-ai.vercel.app](https://movieplex-ai.vercel.app)
-- **Video Showcase:** [Showcase Video](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/movieplex.mp4)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-movieplex--ai.vercel.app-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://movieplex-ai.vercel.app)
+[![Video Showcase](https://img.shields.io/badge/Video_Showcase-▶_Play_Demo-ff0000?style=for-the-badge)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/movieplex.mp4)
 
 ---
 
