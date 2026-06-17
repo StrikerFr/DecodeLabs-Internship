@@ -75,11 +75,11 @@ The projects across the branches showcase proficiency in a wide range of modern 
 
 ## Internship Progress
 
-- **Completed Tasks:** `3`
-- **Upcoming Tasks:** `Coming Soon`
+- **Completed Tasks:** `3 / 3`
+- **Upcoming Tasks:** `None (All tasks completed)`
 
 ```text
-Progress: [██████░░░░░░░░░░] 37.5% Completed
+Progress: [████████████████] 100% Completed
 ```
 
 ---
