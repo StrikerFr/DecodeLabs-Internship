@@ -6,7 +6,7 @@
 
 ### 🎥 Project Showcase
 
-[![Watch the Showcase Video](https://img.shields.io/badge/Play_Video-▶-ff0000?style=for-the-badge&logo=youtube)](https://github.com/StrikerFr/DecodeLabs-Internship/blob/project1/docs/DecodeBot.mp4)
+[![Watch the Showcase Video](https://img.shields.io/badge/Play_Video-▶-ff0000?style=for-the-badge&logo=youtube)](https://kdvhmvy9l6gqbosc.public.blob.vercel-storage.com/decodelabs.mp4)
 
 _(Click the badge above to watch the video demonstration)_
 
